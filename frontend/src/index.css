@@ -83,7 +83,10 @@ main {
 .active-cont {
   margin-left: 240px;
 }
-
 .active-nav {
   left: 0;
+}
+
+.text-bold {
+  font-weight: bold;
 }
